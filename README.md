@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/desmondgc/salt-ssh/_apis/build/status/desmondgc.salt-ssh?branchName=master)](https://dev.azure.com/desmondgc/salt-ssh/_build/latest?definitionId=1&branchName=master)
+
 # salt-ssh
 salt-ssh Dockerfile
 
